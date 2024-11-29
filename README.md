@@ -32,9 +32,4 @@ Mental health disorders, especially depression, are growing global concerns. Thi
 - Pandas, NumPy, Matplotlib, Seaborn
 - Jupyter Notebooks
 
-## Setup Instructions
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/AI-Psychiatrist.git
-   cd AI-Psychiatrist
